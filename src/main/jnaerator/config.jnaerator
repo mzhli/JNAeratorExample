@@ -1,0 +1,4 @@
+-library Test
+-Isrc/main/jnaerator/include
+src/main/jnaerator/include/Test.h
+
